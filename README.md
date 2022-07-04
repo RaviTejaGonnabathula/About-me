@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaviTejaGonnabathula, Analytics professional with 2.5+ years of experience working with data to draw insights across Technology and Banking industry 
+- 👋 Hi, I’m @RaviTejaGonnabathula, Analytics professional with 2.75+ years of experience working with data to draw insights across Technology and Banking industry 
 and solved advance business and technical problems. Experience in research methodologies and data driven decision making.
 - 👀 I’m interested in Decision Science, Statistics and Machine Learning
 - 💞️ I’m looking to collaborate on research projects.
