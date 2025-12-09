@@ -8,17 +8,6 @@ In my prior roles, I’ve:
 - Designed **data workflows on AWS** and other cloud platforms (ETL, feature pipelines, model serving).  
 - Developed **dashboards in Power BI / Tableau** that tie ML outputs to actionable KPIs for stakeholders.  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RaviTejaGonnabathula&label=Profile%20Views&color=0040d6&style=flat-square" alt="RaviTejaGonnabathula" />
-</p>
-
-<p float="left" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaviTejaGonnabathula&theme=tokyonight">
-  <br><br>
-</p>
-
-### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,r,linux,mysql,postgres,aws,azure,gcp,pytorch,sklearn,tensorflow,vscode,git,github)](https://skillicons.dev)
 
 ### What I’m Working On
 - 🔭 **LLMs, RAG, and Agents:**  
@@ -38,8 +27,3 @@ In my prior roles, I’ve:
 - 🏆 I enjoy participating in **Kaggle competitions** and building public notebooks and GitHub projects that showcase clean, readable, and production-aware code.  
 - 🎯 I’m building a personal “DIY MBA” through case studies, essays, and real-world data projects in **finance and retail analytics**.
 
-| GitHub Stats | Languages |
-| --- | --- |
-| ![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaviTejaGonnabathula&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Ravi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTejaGonnabathula&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
-
-Feel free to reach out via [email](mailto:sbravitejagonnabathula@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ravitejagonnabathula/)!  
