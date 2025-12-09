@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @RaviTejaGonnabathula, Analytics professional with 2.75+ years of experience working with data to draw insights across Technology and Banking industry 
-and solved advance business and technical problems. Experience in research methodologies and data driven decision making.
-- 👀 I’m interested in Decision Science, Statistics and Machine Learning
-- 💞️ I’m looking to collaborate on research projects.
-- 📫 you can reach me on linkedin::  ravitejagonnabathula
+## Hello there 👋
+I’m Ravi Teja Gonnabathula, a Data Scientist & AI/ML Engineer focused on building **LLM-powered systems**, **RAG agents**, and **end-to-end analytics solutions**.  
 
-<!---
-RaviTejaGonnabathula/RaviTejaGonnabathula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’ve worked across **data science, business analytics, and ML engineering**, deploying models to production, building scalable data pipelines, and creating dashboards that drive real business decisions. I earned my **Master’s in Information Technology & Management (Data Science)** from **UT Dallas** and have 5+ years of experience across analytics, ML, and data platforms.
 
+In my prior roles, I’ve:
+- Built and deployed predictive ML models (classification, forecasting, NLP) using **Python, PyTorch, scikit-learn, and Spark**.  
+- Designed **data workflows on AWS** and other cloud platforms (ETL, feature pipelines, model serving).  
+- Developed **dashboards in Power BI / Tableau** that tie ML outputs to actionable KPIs for stakeholders.  
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RaviTejaGonnabathula&label=Profile%20Views&color=0040d6&style=flat-square" alt="RaviTejaGonnabathula" />
+</p>
+
+<p float="left" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaviTejaGonnabathula&theme=tokyonight">
+  <br><br>
+</p>
+
+### Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,r,linux,mysql,postgres,aws,azure,gcp,pytorch,sklearn,tensorflow,vscode,git,github)](https://skillicons.dev)
+
+### What I’m Working On
+- 🔭 **LLMs, RAG, and Agents:**  
+  Experimenting with **RAG pipelines, agentic workflows, and domain-specific copilots** (e.g., invoice understanding, document Q&A, and credit-risk assistants).
+- 🧠 **ML & MLOps:**  
+  Building **end-to-end ML workflows** — from data prep and feature engineering to model deployment and monitoring.
+- 📊 **Analytics & BI:**  
+  Designing **SQL + BI** solutions that connect raw data to narratives for stakeholders (Power BI / Tableau / Snowflake / Redshift).
+- 🧪 **Hands-on Projects:**  
+  - Credit risk & loan payback prediction  
+  - Invoice extraction + Q&A using OCR + LayoutLM/RAG  
+  - Poker tracking & analytics app (AllInBank)  
+  - Kaggle notebooks (EDA → Feature Engineering → Modeling → Evaluation)
+
+### Outside of Work
+- 📚 I explore research and blogs on **LLMs, RAG, AI agents, prompt engineering, and causal inference**, then try to **implement the ideas in code** instead of just reading.  
+- 🏆 I enjoy participating in **Kaggle competitions** and building public notebooks and GitHub projects that showcase clean, readable, and production-aware code.  
+- 🎯 I’m building a personal “DIY MBA” through case studies, essays, and real-world data projects in **finance and retail analytics**.
+
+| GitHub Stats | Languages |
+| --- | --- |
+| ![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaviTejaGonnabathula&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Ravi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTejaGonnabathula&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
+
+Feel free to reach out via [email](mailto:sbravitejagonnabathula@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ravitejagonnabathula/)!  
